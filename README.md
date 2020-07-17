@@ -8,9 +8,9 @@ Download the `generate-gradient-matrix-illustrator.jsx` file and save it somewhe
 
 ### Usage
 
-[Click to watch](https://youtu.be/0UknL4fJ0Ls) the video below (54s.)
+[Click to watch](https://youtu.be/1YJAIgLgRc4) the video below (54s.)
 
-[![Gradient matrix generator Adobe Illustrator Script. Micro tutorial](snapshot.png)](hhttps://youtu.be/1YJAIgLgRc4 "Gradient matrix generator Adobe Illustrator Script. Micro tutorial")
+[![Gradient matrix generator Adobe Illustrator Script. Micro tutorial](snapshot.png)](https://youtu.be/1YJAIgLgRc4 "Gradient matrix generator Adobe Illustrator Script. Micro tutorial")
 
 1. Draw as many rectangles as many colors you want to combine.
 2. Fill them with the corresponding colors
